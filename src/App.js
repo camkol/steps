@@ -14,7 +14,7 @@ export default function App() {
   //const [test] = useState({ name: "Cameron" });
 
   //Good practice
-  const [test, setTest] = useState({ name: "Cameron" });
+  //const [test, setTest] = useState({ name: "Cameron" });
 
   function handlePrevious() {
     if (step > 1) setStep(step - 1);
@@ -27,7 +27,7 @@ export default function App() {
     //test.name = "Howze!";
 
     //Good practice
-    setTest({ name: "Dude!" });
+    //setTest({ name: "Dude!" });
   }
 
   return (
@@ -46,7 +46,7 @@ export default function App() {
 
           <p className="message">
             Step {step}: {messages[step - 1]}
-            {test.name}
+            {/* {test.name} */}
           </p>
 
           <div className="buttons">
