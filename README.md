@@ -53,8 +53,6 @@ This was a class project to learn about useState. I finally truly understand it 
 
 Maybe used for reference.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Website - [Cameron Howze](https://camkol.github.io/)
