@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a class project to learn about useState. I finally truly understand it now.
+This was a class project to learn about useState. I finally truly understand it now. This also touch on opening component to input children.
 
 ### Continued development
 
